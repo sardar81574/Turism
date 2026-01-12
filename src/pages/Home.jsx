@@ -64,10 +64,10 @@ export default function Home() {
                         pb-12 px-4">
           <h1
             ref={titleRef}
-            className="text-xl sm:text-3xl md:text-4xl lg:text-5xl 
+            className="text-2xl sm:text-2xl md:text-4xl lg:text-5xl 
                        font-bold max-w-4xl leading-snug"
           >
-            Discover Beautiful Places Around the Madhya Pradesh
+            Discover Beautiful Places Around the, Madhya Pradesh
           </h1>
 
           <p
