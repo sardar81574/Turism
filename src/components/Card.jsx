@@ -391,11 +391,11 @@ export default function Card() {
       title: "Ahilya Ghat" ,
       desc: "Ahilya Ghat is a serene ghat associated with Ahilyabai Holkar, ideal for prayer and aarti..",
       images: [
-        "/images/Ahilya/Ahilya1.jpg",
-        "/images/Ahilya/Ahilya2.jpg",
-        "/images/Ahilya/Ahilya3.jpg",
-        "/images/Ahilya/Ahilya4.jpg",
-        "/images/Ahilya/Ahilya5.jpg",  
+        "/images/Ahilya-Ghat/Ahilyaa1.jpg",
+        "/images/Ahilya-Ghat/Ahilyaa2.jpg",
+        "/images/Ahilya-Ghat/Ahilyaa3.jpg",
+        "/images/Ahilya-Ghat/Ahilyaa4.jpg",
+        "/images/Ahilya-Ghat/Ahilyaa5.jpg",  
       ]
     },
 
@@ -1884,29 +1884,29 @@ export default function Card() {
 
      {
        heading: "Chirakoot",
-      items: cardData.slice(87, 97)
+      items: cardData.slice(87, 96)
      },
 
 
      {
        heading: "Gwalior",
-      items: cardData.slice(97, 107)
+      items: cardData.slice(96, 106)
      },
 
      {
        heading: "Indore",
-      items: cardData.slice(107, 116)
+      items: cardData.slice(106, 115)
      },
 
      {
        heading: "Jabalpur",
-      items: cardData.slice(116, 122)
+      items: cardData.slice(115, 121)
      },
 
 
      {
        heading: "Bhopal",
-      items: cardData.slice(122, 132)
+      items: cardData.slice(121, 132)
      },
 
 
